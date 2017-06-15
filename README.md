@@ -6,7 +6,7 @@
 - what is a programming language even
 - use repl.it
 - learn about:
-  - expressions
+	- expressions
 	- statements
 	- numbers
 	- strings
@@ -26,7 +26,7 @@
 - What's in an element
 - What is a Tree Structure
 - learn about:
-  - Headings and Text
+	- Headings and Text
 	- Hyperlinks and Anchors
 	- lists
 	- tables
@@ -40,7 +40,7 @@
 - select all the things!
 - basic css properties
 - layouting
-  - block inline
+	- block inline
 	- flex all the things!
 - what the box model
 - a floaty excursion
