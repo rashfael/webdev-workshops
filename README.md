@@ -8,6 +8,7 @@
 - learn about:
 	- expressions
 	- statements
+	- variables
 	- numbers
 	- strings
 	- booleans
@@ -16,6 +17,10 @@
 	- conditionals
 	- loops
 	- functions
+	- scopes (oh my god)
+	- var and let and const
+	- boolean operators
+	- all the other operators
 	
 - Bonus: Watch https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo for more basics
 
@@ -45,12 +50,19 @@
 - what the box model
 - a floaty excursion
 
+## Session 1.8 - Javascript, the pointy bits
+- You may know a C-like language, here's how to not hurt yourself with JS
+- Function scopse
+- type coertion
+- we aint got no types
+- monkey patch everyting onto anything
 
 ## Session 2 - And now all together
 - Combine the power of HTML, CSS and JS!
 - Events! Callbacks!
 
 ## Session 3 - Fetch me the Data!
+- Servers? Clients? What is this network you are talking about?
 - How to get data into the js
 - Promises
 
@@ -58,11 +70,20 @@
 - Why do you need a frontend framework
 - Why am I using vue for this
 
-## Session 5 - A peek into the back end
+## Session 5 - A wall full of tools - What helps you when your project gets real
+- Pack your web with Webpack
+- Let the edges bleed - Babel
+- Preprocessors for fun and profit - jade and stylus
+- How eslint keeps you sane
+- Chrome and FF devtools
+- A word on editors
+- A lot of words on the command line and why you might like linux
 
-## Session 6 - Why can't I hold all those states? vuex
+## Session 6 - A peek into the back end
 
-## Session 6.5 - Links, Rechts, Gerade Aus! vue-router
+## Session 7 - Why can't I hold all those states? vuex
+
+## Session 7.5 - Links, Rechts, Gerade Aus! vue-router
 
 ## More Sessions
 - Make it woosh, animations and transitions
@@ -79,4 +100,11 @@
 - Nostalgia - A look into the dark ages of webtech and why you darn kids all have it too easy
 - Interlude into git (hopefully with help from @rixx)
 - I am afraid I can't let you do that, Dave - Validating input and robust rendering
+- Maximum Warp! Make math go fast with WebAssembly
+- Don't let your data perish - put your bytes into a database
+- Let the right one in - Secure your stuff with SSL and CORS, learn about XSS and the other nasties
+- Mogrify your data - methods and patterns using the es6 functions
+- In which I talk about why I don't talk about TypeScript/flow/react/redux/angular
+- Accomodate both big and small - Responsive Design
+- Getting testy - when to test what and how
 - and many more
