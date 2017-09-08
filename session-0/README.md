@@ -10,6 +10,8 @@
   - IEEE754
   - ascii
   - unicode
+- Operating System
+- Layers of Abstraction
 
 ## Programming Basisc
 - Why computer languages
@@ -26,22 +28,36 @@
 - Numbers
   - Always 64-Bit floating point
     - 9999999999999999 == 10000000000000000
+  - binary / octal / hex notation
+    - (42).toString(2/8/16)
+    - 0b
+    - 0o
+    - 0x
   - Math on Numbers!
     - What are Arithmetic Operators
+    - + - / * % ** ++ -- unary- unary+
+    - binary operators
+    - Operator precedence
   - Infinity
+    - Math.log(0)
+    - positive and negative Infinity
+    - Number.isFinite()
   - NaN
+    - NaN !== NaN
+    - Number.isNaN()
+- Boolean
+  - Comparison operators
+  - NaN === NaN, isNaN
+  - Logical operators
 - Strings
   - "" '' ``
   - Unicode
   - escaping with `\\`
   - string operators
     - concatenate
-- Boolean
-  - Comparison operators
-  - NaN === NaN, isNaN
-  - Logical operators
 - Unary operators
   - typeof
+  - delete
 - null and undefined
 - type coertion
 - short curcuiting
@@ -63,6 +79,7 @@
   - return values
 - Control Flow
   - Conditionals / if
+  - ternary operator
   - loops
     - while
     - for / for in / for of
@@ -72,6 +89,10 @@
   - indentation
   - variable naming
   - Excursion on semicolons
+
+## Exercise
+
+- Christmas Tree
 
 ## Functions
 - function definition and function (named) expression
@@ -86,6 +107,9 @@
 - When to function
 - "Hoisting" variables and functions
 
+### Exercise
+ - min function
+ - FizzBuzz
 
 ## Complex Data Structures
 - Arrays
@@ -115,3 +139,5 @@
 ## More of the Same() please – Prototypes and `class`
 
 ## ShitsOnFireError - Handling and Throwing Errors
+
+## Dates
